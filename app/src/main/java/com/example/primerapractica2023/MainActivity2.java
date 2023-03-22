@@ -25,7 +25,7 @@ public class MainActivity2 extends AppCompatActivity {
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getApplicationContext(),"Hiciste Click",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"Presionaste el boton",Toast.LENGTH_SHORT).show();
                 Log.i("INFO:","Regresaste a la primera pantalla");
 
                 Intent intent = new Intent(MainActivity2.this,MainActivity.class);

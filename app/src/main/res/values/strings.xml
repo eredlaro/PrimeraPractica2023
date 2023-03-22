@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">primeraPractica2023</string>
+    <string name="Btn1">Ir a la siguiente ventana</string>
+    <string name="Btn2">regresar a la ventana anterior</string>
+</resources>
